@@ -1,0 +1,14 @@
+There are currently 10 astronauts on the ISS: 
+
+Sergey Prokopyev - on board
+Dmitry Petelin - on board
+Frank Rubio - on board
+Nicole Mann - on board
+Josh Cassada - on board
+Koichi Wakata - on board
+Anna Kikina - on board
+Fei Junlong - on board
+Deng Qingming - on board
+Zhang Lu - on board
+
+Your current lat / long is: [12.9719, 77.5937]

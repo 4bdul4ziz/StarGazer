@@ -1,0 +1,14 @@
+name: StarGazer
+title: StarGazer
+username:
+account: 4bdul4ziz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8048865
+bundleId: 6740720
+url: https://4bdul4ziz.shinyapps.io/StarGazer/
+when: 1673906581.23937
+lastSyncTime: 1673906581.23938
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: iss.gif|iss.txt|main.py|map.gif|pirate.jpg|testISS.R|www/.DS_Store|www/local.js
